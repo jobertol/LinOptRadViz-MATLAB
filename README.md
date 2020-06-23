@@ -36,16 +36,16 @@ When collapsing multidimensional space to just two dimensions, there are clearly
 ### Problem Definition
 
 #### Trail Mix Ingredients
--Almonds
--Walnuts
--Cashew
--Raisins
--Peanuts
+- Almonds
+- Walnuts
+- Cashew
+- Raisins
+- Peanuts
 
 #### Requirements
--45% Protein by Weight
--30% Carbohydrates by Weight
--25% Fat by Weight
+- 45% Protein by Weight
+- 30% Carbohydrates by Weight
+- 25% Fat by Weight
 
 #### Given Information
 |  | Almonds | Walnuts | Cashew | Raisins | Peanuts
