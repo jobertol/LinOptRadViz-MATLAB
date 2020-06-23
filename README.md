@@ -162,6 +162,8 @@ For a vector **X** of n variables, all values X1 to Xn can be mapped inside of t
 >X1 through Xn act as fixed anchors for springs with k values of their normalized values
 >The point (x,y) represents one **X** with the 'springs' at equlilbrium
 
+![image](#https://github.com/jobertol/LinOptRadViz-MATLAB/blob/master/Images/Equilibrium.png)
+
 #### Assumptions
  - Reads an Excel File (.xlsx) 
  - For a function f(**X**) of n variables
