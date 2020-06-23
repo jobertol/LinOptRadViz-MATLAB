@@ -16,7 +16,7 @@ When collapsing multidimensional space to just two dimensions, there are clearly
 		 - [Requirements](#Requirements)
 		 - [Given Information](#Given-Information)
 		 - [Goal](#Goal)
-	 - [Optimization Code](#Code)
+	 - [Optimization Code](#Optimization-Code)
 		 - [Setup](#Setup)
 			 - [Set Bounds](#Set-Bounds)
 			 - [Linear Constraints](#Linear-Constraints)
