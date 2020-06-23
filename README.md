@@ -174,7 +174,7 @@ I like my figures to be oriented with the +y axis, so I start at an angle of Pi/
 
 The angle phi between each variable on the circumference is equal to 2Pi/n.
 
-![image]([https://github.com/jobertol/OptimizationProjects-MATLAB/blob/master/Images/Angles.png](https://github.com/jobertol/OptimizationProjects-MATLAB/blob/master/Images/Angles.png))
+![image](https://github.com/jobertol/OptimizationProjects-MATLAB/blob/master/Images/Angles.png)
 
 To compute the (x,y) positions of each anchor we use the following code:
 
@@ -241,7 +241,7 @@ This is expressed with the following code
 For our trail mix example, here are some plots
 
 In the image below, the z axis plots the generation number. The plot shows the convergence of the 50 members of each generation at the top of the plot from the diversified starting values at the bottom.
-![image]([https://github.com/jobertol/OptimizationProjects-MATLAB/blob/master/Images/RadVizGen.jpg](https://github.com/jobertol/OptimizationProjects-MATLAB/blob/master/Images/RadVizGen.jpg))
+![image](https://github.com/jobertol/OptimizationProjects-MATLAB/blob/master/Images/RadVizGen.jpg)
 
 In this image, the z axis plots the value of f(**X**). The low density of red points shows that there are few **X** values that are high cost. In the mid-section of the plot, the spread widens as more varied combinations are tried. Finally, the data converges to a minimum at the bottom which represents the solution of our problem.
-![image]([https://github.com/jobertol/OptimizationProjects-MATLAB/blob/master/Images/RadVizFx.jpg](https://github.com/jobertol/OptimizationProjects-MATLAB/blob/master/Images/RadVizFx.jpg))
+![image](https://github.com/jobertol/OptimizationProjects-MATLAB/blob/master/Images/RadVizFx.jpg)
