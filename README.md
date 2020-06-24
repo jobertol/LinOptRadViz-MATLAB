@@ -159,8 +159,16 @@ Since genetic algorithms are partially based on random occurrences, it can be he
 For a vector **X** of n variables, all values X1 to Xn can be mapped inside of the unit circle given that
 - X1 through Xn are normalized
 - X1 through Xn are spaced at equal angles around the circumference
-- X1 through Xn act as fixed anchors for springs with k values of their normalized values
+- a1 through an act as fixed anchors corresponding to **X** values
+- Spring stiffness coefficients are equal to X1 through Xn 
 - The point (x,y) represents one **X** with the 'springs' at equlilbrium
+
+This image from the Jožef Stefan Institute represents the concept well.
+
+![image](https://github.com/jobertol/LinOptRadViz-MATLAB/blob/master/Images/Jo%C5%BEef%20Stefan%20Institute%20Graphic.png)
+
+
+This is an image that I made in Geogebra to show **X** as a set of spring force vectors.
 
 ![image](https://github.com/jobertol/LinOptRadViz-MATLAB/blob/master/Images/Equilibrium.png)
 
