@@ -162,7 +162,7 @@ For a vector **X** of n variables, all values X1 to Xn can be mapped inside of t
 -X1 through Xn act as fixed anchors for springs with k values of their normalized values
 -The point (x,y) represents one **X** with the 'springs' at equlilbrium
 
-![image](https://github.com/jobertol/LinOptRadViz-MATLAB/blob/master/Images/Equilibrium.png | width = 300)
+![image](https://github.com/jobertol/LinOptRadViz-MATLAB/blob/master/Images/Equilibrium.png)
 
 #### Assumptions
  - Reads an Excel File (.xlsx) 
@@ -176,7 +176,7 @@ I like my figures to be oriented with the +y axis, so I start at an angle of Pi/
 
 The angle phi between each variable on the circumference is equal to 2Pi/n.
 
-![image](https://github.com/jobertol/OptimizationProjects-MATLAB/blob/master/Images/Angles.png | width = 300)
+![image](https://github.com/jobertol/OptimizationProjects-MATLAB/blob/master/Images/Angles.png)
 
 To compute the (x,y) positions of each anchor we use the following code:
 
