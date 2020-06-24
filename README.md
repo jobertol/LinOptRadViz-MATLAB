@@ -157,10 +157,10 @@ Since genetic algorithms are partially based on random occurrences, it can be he
 
 #### Concept
 For a vector **X** of n variables, all values X1 to Xn can be mapped inside of the unit circle given that
--X1 through Xn are normalized
--X1 through Xn are spaced at equal angles around the circumference
--X1 through Xn act as fixed anchors for springs with k values of their normalized values
--The point (x,y) represents one **X** with the 'springs' at equlilbrium
+- X1 through Xn are normalized
+- X1 through Xn are spaced at equal angles around the circumference
+- X1 through Xn act as fixed anchors for springs with k values of their normalized values
+- The point (x,y) represents one **X** with the 'springs' at equlilbrium
 
 ![image](https://github.com/jobertol/LinOptRadViz-MATLAB/blob/master/Images/Equilibrium.png)
 
